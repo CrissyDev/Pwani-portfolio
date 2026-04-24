@@ -36,3 +36,25 @@ div{
     width:33%;
    float:left; 
 } */
+
+.city{
+     background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+#myHeader{
+     background-color: lightblue;
+  color: black;
+  padding: 40px;
+    text-align: center;
+}
+
+#studentLeader{
+        background-color: lightgreen;
+    color: black;
+    padding: 20px;
+        text-align: center;
+}
